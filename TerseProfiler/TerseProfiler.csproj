@@ -3,5 +3,8 @@
 		<TargetFramework>netstandard2.1</TargetFramework>
 		<LangVersion>latest</LangVersion>
 		<Nullable>enable</Nullable>
+		<PackageId>TerseProfiler</PackageId>
+		<Version>0.0.1</Version>
+		<Authors>RyanNieuwoudt</Authors>
 	</PropertyGroup>
 </Project>
