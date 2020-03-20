@@ -4,7 +4,8 @@
 		<LangVersion>latest</LangVersion>
 		<Nullable>enable</Nullable>
 		<PackageId>TerseProfiler</PackageId>
-		<Version>0.0.1</Version>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Version>0.0.2</Version>
 		<Authors>RyanNieuwoudt</Authors>
 	</PropertyGroup>
 </Project>
